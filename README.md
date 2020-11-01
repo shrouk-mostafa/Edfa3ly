@@ -60,4 +60,12 @@ Total: 467 e£
 Installation:
 ================================================================================
 
-You can run the program using the command line.
+You can run this command if you want to calculate or get the bill.
+
+"php index.php --bill-currency=EGP T-shirt T-shirt Shoes Jacket"
+
+ where the first parameter is bill currency and the second parameter is products.
+
+Dependencies:
+================================================================================
+1- php 7 or more.
